@@ -1,0 +1,69 @@
+alligator
+bacon
+bass
+beef
+beef broth
+beef steak
+belly
+bison
+boart
+breast
+buffalo
+buffalo meat
+caribou
+carp
+catfish
+chicken
+chicken breasts
+chop
+crayfish
+deer
+duck
+egg
+elk
+fish
+frog
+goose
+guanciale
+guineafowl
+ham
+leg of lamb
+lamb
+lamb chops
+liver
+lobster
+meat
+meatball
+meatloaf
+moose
+mussel
+oyster
+pheasant
+pork
+prawn
+quail
+rabbit
+reindeer
+rib
+rump
+salmon
+sausage
+scallop
+shanks
+shoulder
+shrimp
+skewer
+snail
+steak
+tenderloin
+thigh
+tilapia
+tripe
+trout
+tuna
+turkey
+turtle
+veal
+veal
+venison
+wing
